@@ -1,0 +1,129 @@
+Student ID,student_name,COURSE NAME,Midterm Score,Final Score,Attendance,Grade,Enrollment Date
+STU2000,Student_1,Web Development,43.0,43.0,73.6,F,09/05/2024
+STU2001,Student_2,Linear Algebra,63.0,83.0,95.9,C,10/01/2024
+STU2002,Student_3,Web Development,48.0,79.0,99.6,D,09/08/2024
+STU2003,Student_4,Python Basics,,73.0,86.0,F,09/08/2024
+STU2004,Student_5,Machine Learning,69.0,70.0,93.8,,09/22/2024
+STU2005,Student_6,Linear Algebra,79.0,37.0,53.4,F,09/22/2024
+STU2006,Student_7,Python Basics,55.0,86.0,77.0,C,09/05/2024
+STU2007,Student_8,Web Development,58.0,75.0,88.6,D,09/29/2024
+STU2008,Student_9,Algorithms,82.0,87.0,53.0,B,09/30/2024
+STU2009,Student_10,Algorithms,80.0,,67.2,F,09/17/2024
+STU2010,Student_11,Statistics,84.0,54.0,59.2,D,09/08/2024
+STU2011,Student_12,Deep Learning,94.0,94.0,78.1,A,09/05/2024
+STU2012,Student_13,Linear Algebra,55.0,77.0,96.1,D,09/24/2024
+STU2013,Student_14,Machine Learning,43.0,40.0,59.4,F,09/18/2024
+STU2014,Student_15,Machine Learning,70.0,77.0,95.4,C,09/24/2024
+STU2015,Student_16,Data Structures,87.0,96.0,84.8,A,09/08/2024
+STU2016,Student_17,Web Development,60.0,83.0,82.4,C,09/29/2024
+STU2017,Student_18,Database Design,69.0,95.0,66.0,B,09/02/2024
+STU2018,Student_19,Cloud Computing,95.0,,77.7,F,09/10/2024
+STU2019,Student_20,Algorithms,52.0,83.0,62.3,D,09/11/2024
+STU2020,Student_21,Deep Learning,88.0,97.0,86.6,A,09/18/2024
+STU2021,Student_22,Database Design,51.0,42.0,92.0%,F,09/02/2024
+STU2022,Student_23,Python Basics,66.0,64.0,57.6,D,09/02/2024
+STU2023,Student_24,Cloud Computing,80.0,96.0,50.8,B,09/01/2024
+STU2024,Student_25,Web Development,86.0,,90.7,F,09/30/2024
+STU2025,Student_26,Algorithms,46.0,54.0,81.0,F,09/26/2024
+STU2026,Student_27,Linear Algebra,45.0,86.0,62.2,D,09/27/2024
+STU2027,Student_28,Data Structures,81.0,39.0,69.0,D,09/01/2024
+STU2028,Student_29,Algorithms,45.0,90.0,66.6,D,09/29/2024
+STU2029,Student_30,Web Development,,62.0,84.6,F,09/30/2024
+STU2030,Student_31,Data Structures,83.0,39.0,92.5%,D,09/05/2024
+STU2031,Student_32,Linear Algebra,,55.0,78.3,F,09/18/2024
+STU2032,Student_33,Statistics,64.0,52.0,84.5%,F,09/12/2024
+STU2033,Student_34,Python Basics,46.0,44.0,88.5,F,09/25/2024
+STU2034,Student_35,Statistics,41.0,92.0,67.8,D,09/22/2024
+STU2035,Student_36,Cloud Computing,82.0,72.0,85.7%,C,09/23/2024
+STU2036,Student_37,Algorithms,87.0,81.0,50.3,B,09/09/2024
+STU2037,Student_38,Data Structures,48.0,90.0,77.7,,09/12/2024
+STU2038,Student_39,Web Development,45.0,76.0,50.6,D,09/24/2024
+STU2039,Student_40,Web Development,97.0,66.0,58.5,B,09/10/2024
+STU2040,Student_41,Deep Learning,71.0,56.0,71.1,D,09/09/2024
+STU2041,Student_42,Machine Learning,86.0,60.0,56.8%,C,09/27/2024
+STU2042,Student_43,Cloud Computing,64.0,77.0,71.5,C,09/20/2024
+STU2043,Student_44,Algorithms,59.0,60.0,58.9,F,09/24/2024
+STU2044,Student_45,Database Design,76.0,76.0,90.8,C,09/19/2024
+STU2045,Student_46,Machine Learning,77.0,58.0,77.5,D,09/23/2024
+STU2046,Student_47,Machine Learning,68.0,43.0,89.8,F,09/21/2024
+STU2047,Student_48,Deep Learning,55.0,54.0,89.5%,F,09/16/2024
+STU2048,Student_49,Cloud Computing,65.0,88.0,89.5,C,09/18/2024
+STU2049,Student_50,Cloud Computing,80.0,48.0,82.9,D,09/02/2024
+STU2050,Student_51,Cloud Computing,81.0,86.0,66.6,B,09/04/2024
+STU2051,Student_52,Deep Learning,54.0,63.0,69.6,F,09/17/2024
+STU2052,Student_53,Algorithms,62.0,96.0,70.8,C,10/01/2024
+STU2053,Student_54,Algorithms,62.0,93.0,76.1,C,09/24/2024
+STU2054,Student_55,Database Design,,40.0,55.8,F,09/22/2024
+STU2055,Student_56,Algorithms,99.0,66.0,77.6,B,09/15/2024
+STU2056,Student_57,Machine Learning,91.0,58.0,82.9,C,09/29/2024
+STU2057,Student_58,Machine Learning,68.0,,60.7,F,09/26/2024
+STU2058,Student_59,Data Structures,76.0,58.0,59.9,D,09/16/2024
+STU2059,Student_60,Web Development,80.0,84.0,79.4,B,09/20/2024
+STU2060,Student_61,Algorithms,92.0,73.0,79.5,B,09/08/2024
+STU2061,Student_62,Deep Learning,47.0,53.0,70.9,F,09/06/2024
+STU2062,Student_63,Database Design,80.0,57.0,74.5,D,09/15/2024
+STU2063,Student_64,Cloud Computing,43.0,36.0,59.8,F,09/21/2024
+STU2064,Student_65,Database Design,66.0,88.0,72.2,C,09/26/2024
+STU2065,Student_66,Machine Learning,,63.0,58.4,F,09/25/2024
+STU2066,Student_67,Database Design,75.0,49.0,77.2,D,09/25/2024
+STU2067,Student_68,Python Basics,88.0,62.0,55.1,C,09/10/2024
+STU2068,Student_69,Python Basics,68.0,46.0,99.7,F,09/26/2024
+STU2069,Student_70,Cloud Computing,84.0,89.0,57.0,B,09/02/2024
+STU2070,Student_71,Cloud Computing,62.0,56.0,85.2,F,09/28/2024
+STU2071,Student_72,Web Development,97.0,47.0,87.5,C,09/09/2024
+STU2072,Student_73,Algorithms,84.0,66.0,66.1,C,09/13/2024
+STU2073,Student_74,Database Design,49.0,69.0,68.8%,F,09/25/2024
+STU2074,Student_75,Data Structures,65.0,70.0,93.9,D,09/19/2024
+STU2075,Student_76,Python Basics,95.0,46.0,72.9,C,09/03/2024
+STU2076,Student_77,Web Development,65.0,89.0,74.7,C,09/18/2024
+STU2077,Student_78,Cloud Computing,48.0,97.0,94.7,,09/21/2024
+STU2078,Student_79,Database Design,41.0,55.0,50.0,F,09/23/2024
+STU2079,Student_80,Algorithms,96.0,55.0,93.8%,C,09/03/2024
+STU2080,Student_81,Statistics,82.0,,81.3,F,09/14/2024
+STU2081,Student_82,Data Structures,85.0,62.0,56.6,C,09/01/2024
+STU2082,Student_83,Python Basics,84.0,50.0,71.1,D,09/13/2024
+STU2083,Student_84,Data Structures,86.0,48.0,94.0,D,09/25/2024
+STU2084,Student_85,Algorithms,81.0,53.0,78.2,D,09/12/2024
+STU2085,Student_86,Machine Learning,80.0,87.0,72.1,B,09/05/2024
+STU2086,Student_87,Data Structures,77.0,79.0,65.7,C,09/03/2024
+STU2087,Student_88,Machine Learning,75.0,71.0,84.5,C,09/10/2024
+STU2088,Student_89,Machine Learning,73.0,59.0,64.8%,D,10/01/2024
+STU2089,Student_90,Machine Learning,71.0,65.0,79.7,D,09/12/2024
+STU2090,Student_91,Statistics,48.0,88.0,84.1,D,09/25/2024
+STU2091,Student_92,Data Structures,41.0,36.0,52.0%,F,09/17/2024
+STU2092,Student_93,Deep Learning,80.0,88.0,70.1,B,09/05/2024
+STU2093,Student_94,Deep Learning,45.0,100.0,98.7,C,09/19/2024
+STU2094,Student_95,Data Structures,59.0,,54.3,F,09/20/2024
+STU2095,Student_96,Python Basics,59.0,57.0,85.4,F,10/01/2024
+STU2096,Student_97,Statistics,73.0,68.0,56.3,C,09/29/2024
+STU2097,Student_98,Data Structures,89.0,77.0,63.6%,B,09/19/2024
+STU2098,Student_99,Data Structures,71.0,,93.0,F,09/25/2024
+STU2099,Student_100,Data Structures,97.0,49.0,75.4%,C,09/08/2024
+STU2100,Student_101,Python Basics,70.0,54.0,98.0%,D,09/23/2024
+STU2101,Student_102,Linear Algebra,54.0,88.0,66.0,C,09/04/2024
+STU2102,Student_103,Web Development,83.0,57.0,75.8%,C,09/29/2024
+STU2103,Student_104,Database Design,95.0,74.0,77.7%,B,09/19/2024
+STU2104,Student_105,Deep Learning,87.0,94.0,98.6,A,09/24/2024
+STU2105,Student_106,Web Development,88.0,,70.5,F,09/27/2024
+STU2106,Student_107,Python Basics,100.0,83.0,86.4,A,09/08/2024
+STU2107,Student_108,Linear Algebra,71.0,53.0,54.7,D,09/17/2024
+STU2108,Student_109,Linear Algebra,84.0,93.0,54.2%,B,09/27/2024
+STU2109,Student_110,Linear Algebra,44.0,42.0,98.2,F,09/11/2024
+STU2110,Student_111,Linear Algebra,84.0,76.0,63.6%,B,09/25/2024
+STU2111,Student_112,Cloud Computing,46.0,56.0,65.7,F,09/25/2024
+STU2112,Student_113,Machine Learning,68.0,68.0,54.5,D,09/23/2024
+STU2113,Student_114,Cloud Computing,42.0,76.0,85.6,F,09/02/2024
+STU2114,Student_115,Deep Learning,56.0,,70.2,F,09/08/2024
+STU2115,Student_116,Data Structures,69.0,52.0,53.1,D,09/07/2024
+STU2116,Student_117,Linear Algebra,63.0,45.0,62.9,,09/03/2024
+STU2117,Student_118,Machine Learning,97.0,51.0,92.4,C,10/01/2024
+STU2118,Student_119,Database Design,43.0,90.0,69.7%,D,09/06/2024
+STU2119,Student_120,Statistics,53.0,70.0,94.2%,D,09/08/2024
+STU2082,Student_83,Python Basics,84.0,50.0,71.1,D,09/13/2024
+STU2037,Student_38,Data Structures,48.0,90.0,77.7,,09/12/2024
+STU2063,Student_64,Cloud Computing,43.0,36.0,59.8,F,09/21/2024
+STU2052,Student_53,Algorithms,62.0,96.0,70.8,C,10/01/2024
+STU2112,Student_113,Machine Learning,68.0,68.0,54.5,D,09/23/2024
+STU2070,Student_71,Cloud Computing,62.0,56.0,85.2,F,09/28/2024
+STU2061,Student_62,Deep Learning,47.0,53.0,70.9,F,09/06/2024
+STU2007,Student_8,Web Development,58.0,75.0,88.6,D,09/29/2024

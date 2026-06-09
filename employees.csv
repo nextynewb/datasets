@@ -1,0 +1,81 @@
+Employee_ID,Full_Name,Email,Department,Hire_Date,Salary,Years_Experience,Level,Remote
+EMP1000,Yara White,yara.white@techcorp.com,Finance,2024-01-13,106342,25,Lead,0
+EMP1001,Olivia Clark,olivia.clark@techcorp.com,Data Science,2021-03-05,141427,9,Senior,1
+EMP1002,Quinn Taylor,quinn.taylor@techcorp.com,Sales,2023-09-11,87482,1,Junior,0
+EMP1003,Noah Lopez,noah.lopez@techcorp.com,Marketing,2025-03-21,71893,24,Lead,yes
+EMP1004,Ian Anderson,ian.anderson@techcorp.com,Marketing,2024-10-03,83626,7,Senior,0
+EMP1005,Olivia Lopez,olivia.lopez@techcorp.com,Operations,2019-04-20,"$153,762",2,Junior,N
+EMP1006,Hannah Smith,hannah.smith@techcorp.com,Operations,2022-07-29,70974,4,Mid,True
+EMP1007,Julia Robinson,julia.robinson@techcorp.com,Data Science,2024-04-19,81383,0,Junior,False
+EMP1008,Alice Rodriguez,alice.rodriguez@techcorp.com,DESIGN,2021-06-02,84195,9,Senior,False
+EMP1009,Bob Davis,bob.davis@techcorp.com,Data Science,2023-09-16,"$164,829",0,Junior,no
+EMP1010,Wendy Jones,wendy.jones@techcorp.com,Operations,2022-04-08,"$157,522",13,Lead,yes
+EMP1011,Victor Perez,victor.perez@techcorp.com,Engineering,2019-12-17,"$139,530",15,Lead,True
+EMP1012,Uma Gonzalez,uma.gonzalez@techcorp.com,Operations,2023-03-10,111492,11,Senior,no
+EMP1013,Xavier Perez,xavier.perez@techcorp.com,Operations,2020-02-29,132167,20,Lead,yes
+EMP1014,Emma Harris,emma.harris@techcorp.com,sales,2024-03-18,170444,14,Lead,True
+EMP1015,Julia Miller,julia.miller@techcorp.com,Operations,2019-06-29,97289,16,Lead,1
+EMP1016,Emma Moore,emma.moore@techcorp.com,HR,2024-04-23,"$111,404",24,Lead,True
+EMP1017,Noah Lee,noah.lee@techcorp.com,Operations,2022-09-21,116622,12,Lead,0
+EMP1018,Olivia Gonzalez,olivia.gonzalez@techcorp.com,Data Science,2022-10-20,93973,25,Lead,Y
+EMP1019,Zack Williams,zack.williams@techcorp.com,Sales,2023-10-05,65690,10,Senior,False
+EMP1020,Charlie Hernandez,charlie.hernandez@techcorp.com,Design,2022-04-25,125346,14,Lead,N
+EMP1021,Oscar Johnson,oscar.johnson@techcorp.com,engineering,2022-12-15,159017,11,Senior,yes
+EMP1022,Alice Jones,alice.jones@techcorp.com,HR,2023-11-30,54122,11,Senior,N
+EMP1023,Marcus Jackson,marcus.jackson@techcorp.com,Operations,2019-05-13,85222,24,Lead,False
+EMP1024,Sam Jones,sam.jones@techcorp.com,Finance,2024-12-08,141193,3,Mid,True
+EMP1025,Xavier Garcia,xavier.garcia@techcorp.com,Marketing,2024-08-06,146446,8,Senior,0
+EMP1026,George Martin,george.martin@techcorp.com,Sales,2022-03-15,173765,14,Lead,yes
+EMP1027,Olivia Thompson,olivia.thompson@techcorp.com,Operations,2023-12-29,68013,22,Lead,False
+EMP1028,Rachel Moore,rachel.moore@techcorp.com,Sales,2022-04-04,123631,16,Lead,no
+EMP1029,Diana Miller,diana.miller@techcorp.com,Engineering,2020-07-22,107058,18,Lead,N
+EMP1030,Oscar Sanchez,oscar.sanchez@techcorp.com,MARKETING,2025-03-09,79018,22,Lead,0
+EMP1031,Quinn Wilson,quinn.wilson@techcorp.com,Operations,2023-08-05,64333,14,Lead,0
+EMP1032,Victor Taylor,victor.taylor@techcorp.com,Sales,2022-11-12,78642,4,Mid,1
+EMP1033,Quinn Robinson,quinn.robinson@techcorp.com,Finance,2019-08-15,77548,10,Senior,no
+EMP1034,Luna Taylor,luna.taylor@techcorp.com,FINANCE,2022-03-09,65672,17,Lead,False
+EMP1035,Quinn Lee,quinn.lee@techcorp.com,Operations,2020-11-21,85421,18,Lead,True
+EMP1036,Emma Ramirez,emma.ramirez@techcorp.com,Finance,2019-04-27,"$66,292",24,Lead,1
+EMP1037,Tina Lee,tina.lee@techcorp.com,Finance,2019-05-05,175557,9,Senior,0
+EMP1038,Hannah Sanchez,hannah.sanchez@techcorp.com,Engineering,2023-07-22,122970,13,Lead,0
+EMP1039,Oscar Miller,oscar.miller@techcorp.com,Operations,2022-10-25,82661,11,Senior,1
+EMP1040,Evan Harris,evan.harris@techcorp.com,Operations,2023-02-26,179998,3,Mid,Y
+EMP1041,Oscar Davis,oscar.davis@techcorp.com,Design,2020-07-31,"$70,378",13,Lead,no
+EMP1042,Noah Lewis,noah.lewis@techcorp.com,Operations,2020-10-16,130835,5,Mid,0
+EMP1043,Quinn Anderson,quinn.anderson@techcorp.com,Marketing,2024-08-04,125882,16,Lead,0
+EMP1044,Hannah Miller,hannah.miller@techcorp.com,Data Science,2022-12-16,"$57,755",20,Lead,0
+EMP1045,Julia Moore,julia.moore@techcorp.com,Finance,2019-02-03,73179,24,Lead,1
+EMP1046,Luna Johnson,luna.johnson@techcorp.com,HR,2023-06-29,58410,9,Senior,False
+EMP1047,Marcus Taylor,marcus.taylor@techcorp.com,MARKETING,2024-01-19,118327,11,Senior,N
+EMP1048,Rachel Lopez,rachel.lopez@techcorp.com,Design,2020-08-13,97181,1,Junior,True
+EMP1049,Evan Thompson,evan.thompson@techcorp.com,Sales,2022-09-26,169189,16,Lead,yes
+EMP1050,Kevin Robinson,kevin.robinson@techcorp.com,Finance,2022-07-28,87598,16,Lead,0
+EMP1051,Wendy Jackson,wendy.jackson@techcorp.com,Operations,2022-05-12,169490,3,Mid,1
+EMP1052,Sam Martinez,sam.martinez@techcorp.com,HR,2019-04-20,169410,18,Lead,0
+EMP1053,Fiona Taylor,fiona.taylor@techcorp.com,hr,2023-04-07,83738,3,Mid,no
+EMP1054,Alice Anderson,alice.anderson@techcorp.com,HR,2022-07-08,154780,24,Lead,0
+EMP1055,Noah Ramirez,noah.ramirez@techcorp.com,Operations,2019-09-13,81197,15,Lead,1
+EMP1056,Kevin Garcia,kevin.garcia@techcorp.com,Finance,2024-02-26,134738,6,Mid,no
+EMP1057,Ian Moore,ian.moore@techcorp.com,Finance,2022-05-07,103947,22,Lead,no
+EMP1058,Wendy Thompson,wendy.thompson@techcorp.com,Finance,2024-06-25,128110,18,Lead,1
+EMP1059,Olivia Gonzalez,olivia.gonzalez@techcorp.com,Finance,2022-11-14,83397,2,Junior,N
+EMP1060,Liam Anderson,liam.anderson@techcorp.com,Finance,2021-11-16,170587,22,Lead,Y
+EMP1061,Evan Brown,evan.brown@techcorp.com,HR,2021-09-07,"$108,558",1,Junior,False
+EMP1062,Nina Hernandez,nina.hernandez@techcorp.com,sales,2024-04-18,71357,5,Mid,1
+EMP1063,Uma Robinson,uma.robinson@techcorp.com,Finance,2024-05-02,170160,20,Lead,True
+EMP1064,Liam Harris,liam.harris@techcorp.com,Engineering,2020-01-02,105875,5,Mid,1
+EMP1065,Olivia Clark,olivia.clark@techcorp.com,Design,2020-12-21,54526,5,Mid,Y
+EMP1066,Olivia Johnson,olivia.johnson@techcorp.com,Marketing,2019-02-07,123221,10,Senior,Y
+EMP1067,Oscar Lee,oscar.lee@techcorp.com,Sales,2025-02-03,174476,14,Lead,Y
+EMP1068,George Sanchez,george.sanchez@techcorp.com,Data Science,2020-04-06,131686,22,Lead,yes
+EMP1069,Alice White,alice.white@techcorp.com,HR,2022-10-12,122338,20,Lead,1
+EMP1070,Emma Wilson,emma.wilson@techcorp.com,Marketing,2024-10-11,"$130,964",4,Mid,0
+EMP1071,Kevin Robinson,kevin.robinson@techcorp.com,HR,2021-10-13,46790,8,Senior,N
+EMP1072,Julia Jackson,julia.jackson@techcorp.com,HR,2019-02-16,113564,9,Senior,yes
+EMP1073,Marcus Perez,marcus.perez@techcorp.com,Finance,2024-08-20,126521,7,Senior,no
+EMP1074,Evan Thomas,evan.thomas@techcorp.com,Operations,2020-09-19,164269,17,Lead,0
+EMP1075,Yara Moore,yara.moore@techcorp.com,Marketing,2021-06-13,109871,16,Lead,N
+EMP1076,Charlie Robinson,charlie.robinson@techcorp.com,HR,2020-04-04,61189,4,Mid,yes
+EMP1077,Kevin Ramirez,kevin.ramirez@techcorp.com,HR,2024-11-01,160825,15,Lead,False
+EMP1078,Olivia Taylor,olivia.taylor@techcorp.com,Design,2023-12-30,59584,1,Junior,0
+EMP1079,Victor Sanchez,victor.sanchez@techcorp.com,Engineering,2022-06-16,50706,18,Lead,False

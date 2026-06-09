@@ -1,0 +1,216 @@
+Company,Company_Score,Job_Title,Location,Date_Posted,Salary_Range
+Lyft,3.7,Mobile Developer,"Philadelphia, PA",2025-02-26,$162K – $220K
+ViewSoft,3.6,Engineering Manager,,2025-03-19,$124K – $160K
+Garmin International,4.3,Systems Engineer,"Minneapolis, MN",2025-03-08,$109K – $138K
+MongoDB,3.8,Applied Scientist,,2025-03-02,$168K – $213K
+Noblis,3.5,Product Manager,,2025-03-25,$79K – $139K
+NVIDIA,3.8,Research Scientist,"Denver, CO",2025-03-08,$117K – $165K
+Redis,3.7,Applied Scientist,,2025-03-15,$84K – $111K
+Qualcomm,4.7,Sales Engineer,"Phoenix, AZ",2025-02-02,$130K – $178K
+Airbnb,3.3,Backend Engineer,"Austin, TX",2025-03-12,$75K – $129K
+Databricks,3.1,DevOps Engineer,"Phoenix, AZ",2025-03-11,$171K – $197K
+Stripe,3.1,Systems Engineer,"Portland, OR",2025-03-11,$162K – $189K
+AMD,3.4,Mobile Developer,"Dallas, TX",2025-03-29,$146K – $172K
+New Relic,4.1,UX Designer,"Pittsburgh, PA",2025-03-23,$144K – $194K
+Meta,4.1,Solutions Architect,"Detroit, MI",2025-02-22,$141K – $171K
+Google,4.4,Site Reliability Engineer,"Phoenix, AZ",2025-02-21,$102K – $127K
+Oracle,4.3,UX Designer,"Dallas, TX",2025-01-31,$138K – $160K
+Splunk,3.3,Backend Engineer,"San Jose, CA",2025-02-10,$175K – $233K
+Airbnb,3.3,Data Engineer,"Austin, TX",2025-03-22,$118K – $138K
+Databricks,3.9,Site Reliability Engineer,"Salt Lake City, UT",2025-02-22,$162K – $204K
+New Relic,3.8,Cloud Architect,"Dallas, TX",2025-03-19,$125K – $175K
+Salesforce,4.2,Support Engineer,"Atlanta, GA",2025-02-14,$66K – $104K
+LinkedIn,2.8,Technical Writer,"Washington, DC",2025-02-20,$151K – $202K
+Workiva,2.6,Support Engineer,"Pittsburgh, PA",2025-04-01,$180K – $222K
+Amazon,3.9,Security Engineer,"Detroit, MI",2025-03-04,$175K – $228K
+Microsoft,3.7,Sales Engineer,"Houston, TX",2025-02-23,$157K – $210K
+Google,4.3,Software Engineer,"San Francisco, CA",2025-03-29,$97K – $139K
+Workiva,2.9,Data Analyst,"Minneapolis, MN",2025-03-21,$94K – $133K
+Google,3.2,Mobile Developer,,2025-03-08,$136K – $185K
+Lyft,3.4,Applied Scientist,,2025-02-08,$130K – $169K
+AMD,4.0,Cloud Architect,"Portland, OR",2025-03-08,$169K – $219K
+Palantir,4.0,Data Engineer,"Boston, MA",2025-03-16,$180K – $230K
+NVIDIA,4.4,Sales Engineer,"Denver, CO",2025-02-10,$149K – $175K
+Lyft,3.8,Mobile Developer,"Portland, OR",2025-03-29,$138K – $164K
+Workiva,4.3,QA Engineer,"Chicago, IL",2025-03-03,$103K – $133K
+Databricks,4.2,Systems Engineer,"San Diego, CA",2025-03-12,$145K – $171K
+Twilio,3.9,Applied Scientist,"Dallas, TX",2025-03-19,$94K – $149K
+Airbnb,4.3,QA Engineer,"Houston, TX",2025-03-15,$116K – $140K
+Uber,4.7,Engineering Manager,"Pittsburgh, PA",2025-03-01,$170K – $199K
+Snapchat,4.5,Site Reliability Engineer,"Raleigh, NC",2025-02-24,$177K – $215K
+Databricks,3.8,Frontend Developer,"San Jose, CA",2025-02-22,$149K – $186K
+Airbnb,4.0,Backend Engineer,"New York, NY",2025-03-04,$91K – $140K
+Megaport,4.1,Product Manager,"New York, NY",2025-02-13,$154K – $197K
+MIT,3.1,Applied Scientist,"Seattle, WA",2025-02-08,$78K – $102K
+Megaport,3.6,Data Engineer,Remote,2025-02-08,$122K – $148K
+Snapchat,3.3,Data Engineer,"Chicago, IL",2025-03-11,$157K – $201K
+Airbnb,2.9,Technical Writer,"Salt Lake City, UT",2025-03-05,$165K – $222K
+Twitter,3.6,Solutions Architect,"Denver, CO",2025-03-18,$169K – $215K
+Salesforce,3.7,Data Scientist,"Nashville, TN",2025-03-25,$178K – $222K
+Snapchat,4.3,Business Analyst,"Denver, CO",2025-02-11,$143K – $165K
+Twilio,4.5,Technical Writer,"San Jose, CA",2025-03-18,$142K – $166K
+Intel,3.4,Engineering Manager,"Detroit, MI",2025-03-29,$176K – $234K
+Snapchat,3.0,Systems Engineer,"Phoenix, AZ",2025-02-27,$80K – $103K
+Elastic,3.5,QA Engineer,"Raleigh, NC",2025-03-19,$178K – $232K
+Cisco,4.0,Sales Engineer,"Minneapolis, MN",2025-03-06,$135K – $164K
+Redis,4.3,Product Manager,,2025-03-05,$154K – $194K
+Datadog,3.6,Backend Engineer,"Houston, TX",2025-03-20,$72K – $98K
+Stripe,3.0,Support Engineer,"Boston, MA",2025-03-26,$171K – $231K
+Twilio,3.4,Product Manager,"Dallas, TX",2025-02-20,$133K – $165K
+Datadog,4.0,Security Engineer,,2025-02-06,$101K – $132K
+New Relic,3.5,Sales Engineer,"San Jose, CA",2025-02-28,$74K – $118K
+Spotify,4.0,Backend Engineer,"Chicago, IL",2025-03-30,$91K – $141K
+Salesforce,3.7,Data Scientist,"Nashville, TN",2025-03-25,$178K – $222K
+Qualcomm,3.3,Business Analyst,"San Jose, CA",2025-02-26,$108K – $157K
+IBM,3.3,Systems Engineer,"Denver, CO",2025-02-02,$118K – $160K
+Spotify,3.0,Applied Scientist,"Minneapolis, MN",2025-02-10,$62K – $87K
+IBM,3.8,Backend Engineer,"Phoenix, AZ",2025-02-18,$163K – $205K
+Google,4.7,DevOps Engineer,"Raleigh, NC",2025-02-02,$110K – $167K
+Datadog,4.6,Technical Writer,Remote,2025-03-19,$115K – $172K
+MIT,3.8,Security Engineer,,2025-02-20,$147K – $170K
+McKesson,3.2,Data Engineer,"Detroit, MI",2025-03-23,$147K – $197K
+Snapchat,4.9,Data Engineer,"Austin, TX",2025-03-20,$128K – $176K
+Intel,3.9,Fullstack Developer,"Pittsburgh, PA",2025-03-12,$87K – $138K
+IBM,,Security Engineer,"Los Angeles, CA",2025-02-10,$118K – $156K
+LinkedIn,3.4,Backend Engineer,"Los Angeles, CA",2025-03-19,$129K – $157K
+Spotify,3.7,DevOps Engineer,"Detroit, MI",2025-03-03,$100K – $124K
+Cisco,4.2,DevOps Engineer,"Salt Lake City, UT",2025-02-05,$146K – $191K
+Uber,3.5,Solutions Architect,"Denver, CO",2025-02-23,$107K – $157K
+Oracle,3.1,Backend Engineer,"Phoenix, AZ",2025-02-17,$161K – $192K
+Redis,,Business Analyst,"Pittsburgh, PA",2025-03-05,$76K – $98K
+AMD,3.3,Backend Engineer,"Atlanta, GA",2025-03-03,$111K – $157K
+Workiva,4.0,Business Analyst,"Denver, CO",2025-03-31,$82K – $118K
+Uber,3.9,Data Engineer,"San Jose, CA",2025-03-27,$77K – $106K
+NVIDIA,3.9,Engineering Manager,"Phoenix, AZ",2025-03-16,$86K – $126K
+Snowflake,3.2,Mobile Developer,"Houston, TX",2025-03-17,$118K – $173K
+Redis,3.9,Data Scientist,"Chicago, IL",2025-03-08,$175K – $232K
+ViewSoft,3.5,Technical Writer,"Dallas, TX",2025-03-20,$126K – $169K
+Qualcomm,3.1,Backend Engineer,"New York, NY",2025-02-23,$130K – $164K
+Redis,,Product Manager,"Denver, CO",2025-02-02,$96K – $130K
+Meta,5.0,Frontend Developer,"Detroit, MI",2025-03-17,$82K – $137K
+Google,5.0,Solutions Architect,"Houston, TX",2025-01-31,$111K – $166K
+Workiva,4.2,Solutions Architect,"Miami, FL",2025-03-06,$88K – $136K
+Netflix,3.6,DevOps Engineer,"Minneapolis, MN",2025-03-06,$112K – $153K
+McKesson,3.5,DevOps Engineer,"Los Angeles, CA",2025-03-26,$155K – $210K
+Stripe,3.1,Systems Engineer,"Portland, OR",2025-03-11,$162K – $189K
+Netflix,4.0,Site Reliability Engineer,"Minneapolis, MN",2025-03-28,$147K – $181K
+McKesson,3.9,Site Reliability Engineer,"Pittsburgh, PA",2025-03-08,$110K – $142K
+Airbnb,3.5,Mobile Developer,"Los Angeles, CA",2025-03-02,$62K – $116K
+Adobe,4.0,UX Designer,"Salt Lake City, UT",2025-02-05,$72K – $120K
+AMD,3.9,Sales Engineer,"Philadelphia, PA",2025-03-01,$79K – $111K
+Splunk,4.6,Support Engineer,"Detroit, MI",2025-02-24,$65K – $96K
+Datadog,3.7,Data Scientist,"Minneapolis, MN",2025-02-27,$178K – $232K
+Oracle,3.8,Site Reliability Engineer,,2025-02-04,$132K – $157K
+Megaport,4.6,Frontend Developer,"San Jose, CA",2025-03-07,$143K – $168K
+Qualcomm,4.3,Solutions Architect,"Portland, OR",2025-01-31,$94K – $146K
+Elastic,3.2,Applied Scientist,"Philadelphia, PA",2025-03-27,$178K – $213K
+Netflix,3.5,Support Engineer,,2025-02-08,$64K – $104K
+Datadog,3.6,Backend Engineer,"Houston, TX",2025-03-20,$72K – $98K
+Spotify,3.3,Engineering Manager,,2025-02-12,$130K – $163K
+Adobe,4.7,Applied Scientist,"Raleigh, NC",2025-03-09,$133K – $165K
+Splunk,4.0,Product Manager,"Minneapolis, MN",2025-03-18,$68K – $90K
+Garmin International,3.3,Research Scientist,,2025-03-13,$87K – $115K
+Cisco,3.3,Site Reliability Engineer,"Miami, FL",2025-03-24,$65K – $87K
+Google,3.0,Research Scientist,"Washington, DC",2025-03-17,$123K – $180K
+Airbnb,3.7,Support Engineer,"San Jose, CA",2025-03-08,$72K – $114K
+Noblis,3.8,Frontend Developer,"Dallas, TX",2025-02-01,$69K – $117K
+Google,3.0,Research Scientist,"Washington, DC",2025-03-17,$123K – $180K
+McKesson,3.4,Applied Scientist,"San Francisco, CA",2025-03-04,$64K – $121K
+ViewSoft,3.8,DevOps Engineer,"Seattle, WA",2025-02-09,$82K – $109K
+Netflix,4.0,Research Scientist,"Los Angeles, CA",2025-02-14,$158K – $186K
+Megaport,3.7,Mobile Developer,"Dallas, TX",2025-03-02,$97K – $119K
+Redis,3.5,Machine Learning Engineer,"Dallas, TX",2025-02-01,$141K – $196K
+Amazon,3.1,Product Manager,"Detroit, MI",2025-02-21,$100K – $127K
+Garmin International,3.2,Data Engineer,"Los Angeles, CA",2025-02-11,$111K – $163K
+Oracle,4.9,Product Manager,"Portland, OR",2025-03-06,$82K – $114K
+AMD,4.7,Systems Engineer,"Minneapolis, MN",2025-03-28,$175K – $200K
+MIT,,Frontend Developer,"Denver, CO",2025-02-13,$73K – $127K
+Apple,3.1,Research Scientist,"San Francisco, CA",2025-03-15,$116K – $163K
+Cisco,3.3,Site Reliability Engineer,"Miami, FL",2025-03-24,$65K – $87K
+IBM,4.0,Backend Engineer,"Seattle, WA",2025-04-01,$174K – $200K
+AMD,3.3,Backend Engineer,"Atlanta, GA",2025-03-03,$111K – $157K
+Noblis,4.3,Data Analyst,"Washington, DC",2025-02-03,$82K – $141K
+Noblis,2.9,Product Manager,"Denver, CO",2025-03-22,$116K – $170K
+Qualcomm,3.9,Cloud Architect,Remote,2025-03-06,$171K – $200K
+Intel,4.2,Engineering Manager,"Denver, CO",2025-03-30,$139K – $164K
+Palantir,3.0,Cloud Architect,"Los Angeles, CA",2025-02-23,$115K – $175K
+Adobe,2.9,Product Manager,"Salt Lake City, UT",2025-03-24,$76K – $126K
+Stripe,4.3,Applied Scientist,"San Diego, CA",2025-03-18,$120K – $141K
+Oracle,3.9,Data Engineer,"Salt Lake City, UT",2025-02-22,$70K – $93K
+Netflix,4.0,Frontend Developer,"Atlanta, GA",2025-03-08,$103K – $148K
+Snowflake,3.9,Machine Learning Engineer,"New York, NY",2025-02-17,$170K – $205K
+McKesson,4.2,UX Designer,"Miami, FL",2025-02-11,$130K – $163K
+Apple,4.4,Research Scientist,"Chicago, IL",2025-03-19,$147K – $207K
+AMD,3.6,Applied Scientist,"Dallas, TX",2025-03-05,$82K – $135K
+Lyft,4.4,UX Designer,"Austin, TX",2025-02-26,$77K – $121K
+ViewSoft,3.6,Engineering Manager,,2025-03-19,$124K – $160K
+Apple,4.1,Applied Scientist,"Los Angeles, CA",2025-02-18,$61K – $110K
+Splunk,4.7,Software Engineer,"Salt Lake City, UT",2025-02-16,$114K – $155K
+New Relic,4.0,UX Designer,"Chicago, IL",2025-03-09,$82K – $121K
+Salesforce,4.2,Mobile Developer,"Raleigh, NC",2025-02-01,$179K – $214K
+Apple,4.1,Research Scientist,"Phoenix, AZ",2025-03-24,$170K – $194K
+Databricks,3.9,Mobile Developer,"Los Angeles, CA",2025-02-28,$74K – $116K
+Oracle,4.9,Cloud Architect,"Denver, CO",2025-03-26,$147K – $190K
+Megaport,3.1,Sales Engineer,"San Francisco, CA",2025-03-03,$177K – $201K
+Garmin International,,Support Engineer,"Seattle, WA",2025-03-16,$80K – $128K
+Lyft,3.7,Mobile Developer,"Philadelphia, PA",2025-02-26,$162K – $220K
+Google,4.3,Systems Engineer,"Chicago, IL",2025-02-03,$67K – $97K
+Megaport,,Backend Engineer,"Salt Lake City, UT",2025-03-27,$169K – $203K
+Apple,2.6,Engineering Manager,"Portland, OR",2025-03-17,$75K – $130K
+Megaport,4.4,Applied Scientist,"Denver, CO",2025-02-11,$98K – $156K
+Datadog,3.5,Product Manager,"Miami, FL",2025-02-05,$119K – $150K
+LinkedIn,3.5,Machine Learning Engineer,"Seattle, WA",2025-03-07,$68K – $97K
+AMD,4.0,Data Analyst,"Detroit, MI",2025-02-27,$145K – $184K
+New Relic,4.1,Sales Engineer,"Minneapolis, MN",2025-02-08,$80K – $119K
+McKesson,3.5,Cloud Architect,"Miami, FL",2025-03-22,$107K – $149K
+Intel,2.7,Applied Scientist,"Dallas, TX",2025-03-24,$91K – $146K
+LinkedIn,4.4,UX Designer,"Los Angeles, CA",2025-03-16,$64K – $90K
+Noblis,3.7,Engineering Manager,"Philadelphia, PA",2025-02-18,$75K – $121K
+MIT,3.8,UX Designer,"Miami, FL",2025-03-01,$179K – $217K
+MongoDB,4.0,Technical Writer,Remote,2025-03-25,$147K – $201K
+NVIDIA,4.3,Systems Engineer,"Raleigh, NC",2025-01-31,$95K – $117K
+Cisco,3.8,Cloud Architect,"Detroit, MI",2025-02-25,$136K – $176K
+Google,2.2,Systems Engineer,"Dallas, TX",2025-03-17,$167K – $227K
+Airbnb,3.2,Mobile Developer,"San Jose, CA",2025-02-28,$94K – $114K
+Twitter,3.6,Product Manager,"Seattle, WA",2025-02-20,$134K – $189K
+Stripe,3.9,UX Designer,Remote,2025-03-05,$82K – $110K
+Lyft,3.1,Data Analyst,"Atlanta, GA",2025-02-16,$97K – $152K
+Google,4.4,Machine Learning Engineer,,2025-02-13,$178K – $219K
+Noblis,3.9,Support Engineer,"Houston, TX",2025-04-01,$133K – $171K
+Elastic,4.0,Technical Writer,Remote,2025-01-31,$173K – $202K
+Snapchat,4.0,Mobile Developer,"Phoenix, AZ",2025-03-28,$120K – $168K
+Datadog,3.5,Product Manager,"Miami, FL",2025-02-05,$119K – $150K
+Cisco,3.3,Fullstack Developer,"Miami, FL",2025-03-31,$66K – $107K
+Airbnb,4.0,Support Engineer,"Los Angeles, CA",2025-02-28,$111K – $165K
+Stripe,4.0,Frontend Developer,"San Francisco, CA",2025-03-05,$166K – $203K
+MIT,3.5,Fullstack Developer,"Dallas, TX",2025-02-11,$107K – $137K
+Redis,3.7,QA Engineer,Remote,2025-03-01,$62K – $89K
+Lyft,3.6,Backend Engineer,,2025-03-20,$111K – $152K
+Elastic,3.2,Security Engineer,Remote,2025-03-25,$118K – $161K
+ViewSoft,4.9,DevOps Engineer,,2025-03-29,$130K – $168K
+Netflix,3.8,Business Analyst,"Philadelphia, PA",2025-02-12,$95K – $151K
+Noblis,3.5,Cloud Architect,"Minneapolis, MN",2025-03-31,$140K – $198K
+Uber,2.6,Data Scientist,"Pittsburgh, PA",2025-03-29,$155K – $195K
+Noblis,4.1,Business Analyst,"Phoenix, AZ",2025-03-15,$166K – $196K
+Oracle,3.1,Backend Engineer,"Phoenix, AZ",2025-02-17,$161K – $192K
+Adobe,3.7,Data Scientist,Remote,2025-03-18,$124K – $182K
+Lyft,3.4,Data Scientist,"San Diego, CA",2025-03-17,$145K – $171K
+Uber,4.0,Machine Learning Engineer,"New York, NY",2025-03-10,$135K – $174K
+Spotify,2.9,Site Reliability Engineer,,2025-03-06,$71K – $105K
+McKesson,4.0,Engineering Manager,"San Diego, CA",2025-02-16,$97K – $118K
+Airbnb,3.3,Backend Engineer,"Austin, TX",2025-03-12,$75K – $129K
+Elastic,,Fullstack Developer,"New York, NY",2025-03-06,$122K – $177K
+Stripe,3.8,Applied Scientist,"Pittsburgh, PA",2025-02-01,$85K – $132K
+Workiva,4.0,Fullstack Developer,Remote,2025-03-17,$76K – $126K
+MIT,3.8,Security Engineer,,2025-02-20,$147K – $170K
+Google,2.2,Systems Engineer,"Dallas, TX",2025-03-17,$167K – $227K
+New Relic,3.3,Product Manager,"Denver, CO",2025-02-07,$170K – $226K
+MIT,3.1,Applied Scientist,"Seattle, WA",2025-02-08,$78K – $102K
+Lyft,4.7,QA Engineer,"Raleigh, NC",2025-03-09,$157K – $187K
+Netflix,3.3,Technical Writer,"Salt Lake City, UT",2025-02-21,$146K – $201K
+AMD,4.7,Solutions Architect,"Phoenix, AZ",2025-02-25,$91K – $118K
+ViewSoft,4.9,DevOps Engineer,,2025-03-29,$130K – $168K
+Redis,2.8,Engineering Manager,"Atlanta, GA",2025-03-07,$106K – $140K
+MIT,3.4,Engineering Manager,"San Francisco, CA",2025-03-05,$144K – $187K
+Twitter,5.0,Research Scientist,"Phoenix, AZ",2025-02-28,$137K – $184K
+Elastic,3.6,Mobile Developer,"Nashville, TN",2025-03-10,$149K – $198K
