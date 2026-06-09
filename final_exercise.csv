@@ -1,0 +1,11 @@
+transaction_id,date,customer_name,region,product_category,revenue,rating
+1001,2023-11-01,aLi bin aBduL,North,Electronics,RM450.00,5
+1002,2023-11-01,SITI nurhaliza,South,Clothing,RM120.50,3
+1003,2023-11-02,mutHU,North,Electronics,RM800.00,4
+1004,2023-11-02,Mei ling,East,Furniture,RM300.00,2
+1005,2023-11-03,siti NURHALIZA,South,Clothing,RM150.00,5
+1006,2023-11-03,aLi bin aBduL,North,Furniture,RM250.00,4
+1007,2023-11-04,Raju,West,Electronics,RM500.00,3
+1008,2023-11-04,MEI LING,East,Clothing,RM90.00,5
+1009,2023-11-05,JOHN doe,South,Electronics,RM600.00,4
+1010,2023-11-05,Muthu,North,Clothing,RM110.00,2
