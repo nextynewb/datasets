@@ -1,0 +1,121 @@
+name,week,faculty,hours_studied,total
+Ahmad,1,CS,7,74
+Mei Ling,1,Eng,8,77
+Priya,1,Med,5,64
+Rajan,1,Business,4,60
+Siti,1,Arts,6,69
+Lee Kai,1,CS,9,80
+Farah,1,Med,3,55
+Arun,1,Eng,7,72
+Kumar,1,Business,5,65
+Nur,1,Arts,8,76
+Hafiz,1,CS,6,68
+Anita,1,Arts,7,73
+Ahmad,2,CS,7,75
+Mei Ling,2,Eng,8,79
+Priya,2,Med,5,65
+Rajan,2,Business,4,61
+Siti,2,Arts,6,71
+Lee Kai,2,CS,9,82
+Farah,2,Med,3,57
+Arun,2,Eng,7,73
+Kumar,2,Business,5,66
+Nur,2,Arts,8,78
+Hafiz,2,CS,6,70
+Anita,2,Arts,7,74
+Ahmad,3,CS,8,77
+Mei Ling,3,Eng,9,81
+Priya,3,Med,6,68
+Rajan,3,Business,5,63
+Siti,3,Arts,7,73
+Lee Kai,3,CS,10,84
+Farah,3,Med,4,59
+Arun,3,Eng,8,76
+Kumar,3,Business,6,68
+Nur,3,Arts,9,80
+Hafiz,3,CS,7,72
+Anita,3,Arts,8,77
+Ahmad,4,CS,7,78
+Mei Ling,4,Eng,8,82
+Priya,4,Med,5,69
+Rajan,4,Business,4,64
+Siti,4,Arts,6,74
+Lee Kai,4,CS,9,85
+Farah,4,Med,3,60
+Arun,4,Eng,7,77
+Kumar,4,Business,5,69
+Nur,4,Arts,8,81
+Hafiz,4,CS,6,73
+Anita,4,Arts,7,78
+Ahmad,5,CS,8,80
+Mei Ling,5,Eng,9,84
+Priya,5,Med,6,71
+Rajan,5,Business,5,66
+Siti,5,Arts,7,76
+Lee Kai,5,CS,10,87
+Farah,5,Med,4,62
+Arun,5,Eng,8,79
+Kumar,5,Business,6,71
+Nur,5,Arts,9,83
+Hafiz,5,CS,7,75
+Anita,5,Arts,8,80
+Ahmad,6,CS,7,81
+Mei Ling,6,Eng,8,85
+Priya,6,Med,5,72
+Rajan,6,Business,4,67
+Siti,6,Arts,6,77
+Lee Kai,6,CS,9,88
+Farah,6,Med,3,63
+Arun,6,Eng,7,80
+Kumar,6,Business,5,72
+Nur,6,Arts,8,84
+Hafiz,6,CS,6,76
+Anita,6,Arts,7,81
+Ahmad,7,CS,8,83
+Mei Ling,7,Eng,9,87
+Priya,7,Med,6,73
+Rajan,7,Business,5,68
+Siti,7,Arts,7,78
+Lee Kai,7,CS,11,90
+Farah,7,Med,4,65
+Arun,7,Eng,8,81
+Kumar,7,Business,6,74
+Nur,7,Arts,9,86
+Hafiz,7,CS,7,78
+Anita,7,Arts,8,83
+Ahmad,8,CS,7,84
+Mei Ling,8,Eng,10,88
+Priya,8,Med,5,74
+Rajan,8,Business,4,69
+Siti,8,Arts,6,79
+Lee Kai,8,CS,10,91
+Farah,8,Med,3,66
+Arun,8,Eng,7,82
+Kumar,8,Business,5,75
+Nur,8,Arts,8,87
+Hafiz,8,CS,6,79
+Anita,8,Arts,7,84
+Ahmad,9,CS,8,86
+Mei Ling,9,Eng,9,89
+Priya,9,Med,6,76
+Rajan,9,Business,5,71
+Siti,9,Arts,7,81
+Lee Kai,9,CS,11,93
+Farah,9,Med,4,68
+Arun,9,Eng,8,84
+Kumar,9,Business,6,76
+Nur,9,Arts,9,88
+Hafiz,9,CS,7,81
+Anita,9,Arts,8,86
+Ahmad,10,CS,9,88
+Mei Ling,10,Eng,10,91
+Priya,10,Med,6,77
+Rajan,10,Business,5,72
+Siti,10,Arts,8,83
+Lee Kai,10,CS,12,94
+Farah,10,Med,4,69
+Arun,10,Eng,9,86
+Kumar,10,Business,6,77
+Nur,10,Arts,10,90
+Hafiz,10,CS,8,83
+Anita,10,Arts,9,87
