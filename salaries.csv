@@ -7,7 +7,7 @@ EMP009,Faridah Abdullah,Malay,Melaka,Marketing,Accountant,135000,3.2,2020-08-02
 EMP010,Wong Kah Wai,Chinese,Negeri Sembilan,,Accountant,118000,2.9,2020-08-27
 EMP029,Koh Tsu Koon,Chinese,Terengganu,Sales,UI/UX Designer,138000,4.0,2021-12-15
 EMP025,Saraswati Devi,Indian,Terengganu,Finance,QA Engineer,90000,2.7,2021-09-06
-EMP013,Lim Swee Keat,Chinese,Pahang,Product Management,Accountant,Not Available,3.5,2020-11-10
+EMP013,Lim Swee Keat,Chinese,Pahang,Product Management,Accountant,,3.5,2020-11-10
 EMP001,Ahmad Razak,Malay,Melaka,Software Engineering,Business Analyst,124000,4.9,2020-01-15
 EMP005,Tan Mei Ling,Chinese,Pahang,Software Engineering,Operations Manager,110000,4.0,2020-04-24
 EMP017,Syed Hussein,Malay,Johor Bahru,Operations,Support Engineer,96000,4.3,2021-02-18
@@ -18,8 +18,8 @@ EMP023,Imran Shah,Malay,Selangor,Customer Support,Business Analyst,104000,4.6,20
 EMP002,Lee Wei Ming,Chinese,Johor Bahru,Cybersecurity,Software Engineer,130000,4.6,2020-02-09
 EMP003,Rajesh Kumar,Indian,Kelantan,Human Resources,Product Manager,140000,4.4,2020-03-05
 EMP026,Muhammad Faiz,Malay,Putrajaya,Data Science,Operations Manager,150000,3.4,
-EMP004,Siti Nurhaliza,Malay,Labuan,Customer Support,Senior Developer,Not Available,3.8,2020-03-30
-EMP022,Ong Boon Huat,Chinese,Sabah,Cybersecurity,Product Manager,Not Available,4.8,2021-06-23
+EMP004,Siti Nurhaliza,Malay,Labuan,Customer Support,Senior Developer,,3.8,2020-03-30
+EMP022,Ong Boon Huat,Chinese,Sabah,Cybersecurity,Product Manager,,4.8,2021-06-23
 EMP027,Yeoh Li Hua,Chinese,Sarawak,Marketing,Business Analyst,122000,4.2,2021-10-26
 EMP019,Fong Wai Leng,Chinese,Perak,Marketing,Senior Developer,115000,4.0,
 EMP030,Shanti Raj,Indian,Sabah,Product Management,Sales Representative,100000,3.2,2022-01-09
@@ -45,7 +45,7 @@ EMP043,Hafiz Suip,Malay,Pahang,Product Management,DevOps Engineer,87000,,2023-11
 EMP044,Lisa Surihani,Malay,Sabah,,System Administrator,161000,,2020-10-26
 EMP045,Gomes,Indian,,Finance,Senior Developer,110000,3.9,2020-04-24
 EMP046,Tengku Zulkifli,Malay,Pahang,Operations,UI/UX Designer,171000,4.1,2021-02-19
-EMP047,Zizan Razak,Malay,Negeri Sembilan,Product Management,QA Engineer,Not Available,3.7,2020-05-13
+EMP047,Zizan Razak,Malay,Negeri Sembilan,Product Management,QA Engineer,,3.7,2020-05-13
 EMP048,Nicol David,Indian,Sabah,Marketing,Accountant,172000,4.0,2023-03-26
 EMP049,Gomes,Indian,Labuan,Data Science,Accountant,110000,2.6,2021-10-06
 EMP050,Koo Kien Keat,Chinese,Selangor,Data Science,Business Analyst,108000,2.8,2023-03-09
@@ -69,7 +69,7 @@ EMP067,Amber Chia,Chinese,Negeri Sembilan,Human Resources,HR Specialist,158000,2
 EMP068,Farid Kamil,Malay,Johor Bahru,Operations,HR Specialist,105000,3.0,2021-02-22
 EMP069,Hafiz Suip,Malay,Negeri Sembilan,Data Science,UI/UX Designer,147000,,2023-02-15
 EMP070,Farid Kamil,Malay,Penang,Sales,Sales Representative,153000,,2022-09-16
-EMP071,Farid Kamil,Malay,Selangor,Cybersecurity,Senior Developer,Not Available,3.8,2021-12-13
+EMP071,Farid Kamil,Malay,Selangor,Cybersecurity,Senior Developer,,3.8,2021-12-13
 EMP072,Goh Liu Ying,Chinese,Putrajaya,Cybersecurity,Senior Developer,167000,4.2,2022-01-27
 EMP073,S. Kisona,Indian,Sabah,Cybersecurity,Operations Manager,172000,2.1,2021-03-07
 EMP074,K. Letshanaa,Indian,Terengganu,Software Engineering,DevOps Engineer,144000,4.3,2020-07-05
@@ -89,7 +89,7 @@ EMP087,Amirul Hakim,Malay,Perlis,Sales,Sales Representative,154000,2.5,2022-03-2
 EMP088,M. Kogileswaran Raj,Indian,Kuala Lumpur,Product Management,Accountant,146000,3.6,2023-01-08
 EMP089,Gomes,Indian,Kedah,Marketing,Business Analyst,170000,5.0,2023-01-17
 EMP090,K. Letshanaa,Indian,Negeri Sembilan,Sales,QA Engineer,162000,3.0,2023-02-23
-EMP091,Suhaila Roslan,Malay,Johor Bahru,Data Science,HR Specialist,Not Available,,2022-08-09
+EMP091,Suhaila Roslan,Malay,Johor Bahru,Data Science,HR Specialist,,,2022-08-09
 EMP092,Cheah Liek Hou,Chinese,,Cybersecurity,DevOps Engineer,85000,4.5,2020-07-16
 EMP093,Khairul Aming,Malay,Pahang,Cybersecurity,Senior Developer,149000,3.5,2021-05-14
 EMP094,Suhaila Roslan,Malay,Perlis,Cybersecurity,Support Engineer,127000,4.3,2021-11-24
